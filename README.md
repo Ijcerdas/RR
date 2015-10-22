@@ -1,3 +1,3 @@
 # RealRealms
-# This plugin is for use of any person!
+# I hope this code does as much use to you as it did to me!
 # Enjoy!
