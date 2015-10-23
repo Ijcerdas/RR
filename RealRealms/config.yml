@@ -1,0 +1,10 @@
+# ============================================================ #
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-  #
+#                ++++++++ Real Realms ++++++++                 #
+#                     [Author: Ijcerdas]                       #
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-  #
+# ============================================================ #
+# You can set the Join message for players here. Variables: %player%
+Player Join Message: '&a&l>>> &f%player% has joined the game.'
+# You can set the Leave message for players here. Variables: %player%
+Player Quit Message: '&4&l<<< &f%player% has left the game.'

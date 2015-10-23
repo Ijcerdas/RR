@@ -1,0 +1,20 @@
+name: RealRealms
+author: Ijcerdas
+version: 1.0
+main: me.Ijcerdas.RealRealms.RealRealms
+commands:
+    rr:
+      usage: /<command>
+      aliases: [realrealms]
+      description: Base Command for RR
+    rk:
+      usage: /<command>
+      aliases: [realkits]
+      description: Kits Command For RR
+    realreload:
+      usage: /<command>
+      description: Reloads Real Realms
+    rs:
+      usage: /<command>
+      aliases: [realshouts]
+      description: Lists all RR Shouts
